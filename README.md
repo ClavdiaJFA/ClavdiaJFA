@@ -10,6 +10,3 @@
 
 
 
-
-![5188734434539786_5857846167867844232_n](https://user-images.githubusercontent.com/73711809/214340587-26e9d457-2eba-4ae4-95dc-444a4d23f58e.jpg)
-
