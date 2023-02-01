@@ -9,4 +9,9 @@
 - :performing_arts: 舞台少女  :compass: 一人旅
 
 
+<a href=#><img src="contributions.svg"></a>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
