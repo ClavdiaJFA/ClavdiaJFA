@@ -1,6 +1,6 @@
 
   
-### "And it shall be bestowed upon you, the star which you have longed for..." :sparkles:
+### "Dreams aren't something to beheld, they must be exemplified" :sparkles:
 
 - :computer: Syst Engineering student
 
