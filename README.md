@@ -11,7 +11,4 @@
 
 <a href=#><img src="contributions.svg"></a>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
-</p>
+<a href="https://app.daily.dev/ClavdiaJFA"><img src="https://api.daily.dev/devcards/8302be7f890b4de5ad6a1bacf694cd75.png?r=lcn" width="400" alt="Claudia J. Flores Aguilera's Dev Card"/></a>
