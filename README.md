@@ -6,9 +6,13 @@
 
 - :moyai: Historian without degree
 
-- :violin: Musician :person_fencing: 剣道家
+- :violin: Musician 
 
-- :performing_arts: 舞台少女  :compass: 一人旅
+- :performing_arts: 舞台少女  
+
+- :person_fencing: 剣道家
+
+- :compass: 一人旅
 
 
 <p align="center">
