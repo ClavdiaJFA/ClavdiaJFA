@@ -1,4 +1,4 @@
-<p align="center">
+
   
 ### "And it shall be bestowed upon you, the star which you have longed for..." :sparkles:
 
@@ -10,7 +10,6 @@
 
 - :performing_arts: 舞台少女  :compass: 一人旅
 
-</p>
 
 <p align="center">
 <a href=#><img src="contributions.svg"></a>
