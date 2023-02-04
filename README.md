@@ -19,4 +19,4 @@
 <a href=#><img src="contributions.svg"></a>
   </p>
 
-<a href="https://app.daily.dev/ClavdiaJFA"><p align="center"><img src="https://api.daily.dev/devcards/8302be7f890b4de5ad6a1bacf694cd75.png?r=8j5" width="450" alt="Claudia Blumen's Dev Card"/></p></a>
+<a href="https://app.daily.dev/ClavdiaJFA"><p align="center"><img src="https://api.daily.dev/devcards/8302be7f890b4de5ad6a1bacf694cd75.png?r=5i1" width="400" alt="Claudia Blumen's Dev Card"/></p></a>
