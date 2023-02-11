@@ -12,7 +12,15 @@
 
 - :person_fencing: 剣道家
 
+- 🖍️ Drawing for fun 
+
+- 🖋️ Amateur writer
+
+- 🔡 Self-appointed translator
+
 - :compass: 一人旅
+
+- 🗺️🕵️‍♀️ Geography and Cybersecurity Enthusiast
 
 
 <p align="center">
