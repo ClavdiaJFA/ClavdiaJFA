@@ -19,7 +19,7 @@
 
 - 🖋️ Amateur writer
 
-- 🔡 translator by self training
+- 🔡 Translator by self training
 
 - :compass: 一人旅
 
