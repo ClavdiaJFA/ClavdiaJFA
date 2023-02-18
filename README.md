@@ -1,6 +1,6 @@
 
   
-<h1 align="center"> "Dreams aren't something to beheld, they must be exemplified" </h1>
+<h1 align="center">"Dreams aren't something to beheld, they must be exemplified"</h1>
 
 <details>
     <summary><b> 👉 Details about me (Expand here) 👈</b></summary><br/> 
