@@ -51,6 +51,10 @@
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
             </td>
           <td width="80px" align="center">
+            <span><strong>C++</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+            </td>
+          <td width="80px" align="center">
             <span><strong>Javascript</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
             </td>
@@ -83,6 +87,10 @@
             <td width="80px" align="center">
             <span><strong>MySQL</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+            </td>
+          <td width="80px" align="center">
+            <span><strong>Docker</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Git</strong></span><br>
