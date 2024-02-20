@@ -106,5 +106,4 @@
 </p>
  
  
-<a href="https://app.daily.dev/clavdiajfa"><img src="https://api.daily.dev/devcards/v2/kGxCLaI35eZSHIuE5rWyK.png?r=yv1&type=wide" width="652" alt="Claudia Blumen's Dev Card"/></a>
-
+<a href="https://app.daily.dev/clavdiajfa"><p align="center"><img src="https://api.daily.dev/devcards/v2/kGxCLaI35eZSHIuE5rWyK.png?type=default&r=8ct" width="356" alt="Claudia Blumen's Dev Card"/></p></a>
