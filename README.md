@@ -5,25 +5,28 @@
 <details>
     <summary><b> 👉 Details about me (Expand here) 👈</b></summary><br/> 
 
-- :computer: Syst Engineering student   
+- :computer: Syst Engineering student
+
+- 🕵️‍♀️ Cybersecurity Enthusiast 
 
 - :moyai: Historian without degree
 
+- 🗺️ Geography Enjoyer
+
 - :violin: Musician 
-
-- :performing_arts: 舞台少女  
-
-- :person_fencing: 剣道家
-
-- 🖍️ Drawing for fun 
 
 - 🖋️ Amateur writer
 
 - 🔡 Translator by self training
 
-- :compass: 一人旅
+- :performing_arts: 舞台少女  
 
-- 🗺️🕵️‍♀️ Geography and Cybersecurity Enthusiast
+- :person_fencing: 剣道家
+  
+- :compass: 一人旅 
+
+- 🖍️ Drawing for fun
+
 </details>
 
 
